@@ -7,3 +7,6 @@ __pycache__/
 
 # VS Code local settings
 .vscode/
+
+# Microsoft Office temporary files
+~$*
