@@ -10,3 +10,6 @@ __pycache__/
 
 # Microsoft Office temporary files
 ~$*
+# Large media and downloaded resource files
+*.mp4
+*.zip
