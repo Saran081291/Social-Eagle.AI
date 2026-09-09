@@ -13,3 +13,4 @@ __pycache__/
 # Large media and downloaded resource files
 *.mp4
 *.zip
+.env
